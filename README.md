@@ -8,6 +8,7 @@
  - Exibir lista de hotéis com nome, informações de comodidades, preços e imagem.
  - Filtrar hotéis por menor ou maior preço
  - Navegar pela lista de hotéis via paginação
+ - Ver detalhes de um hotel através de um modal com informações
 
 ## Tecnologias utilizadas
 
