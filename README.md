@@ -32,13 +32,22 @@
 
 ## Como rodar o projeto
 
-- Clone o repositório: git clone []
+- Clone o repositório: git clone https://github.com/larissamendess/frontend-onfly.git
 - Entre na pasta : cd onfly
 - Instale as dependências : npm install 
 - Inicie o servidor Json Server: npx json-server --watch data/payload.json --port 3000
 - Inicie o servidor de desenvolvimento: npm run dev
 - O projeto estará disponivel na porta http://localhost:9000/
 - Para rodar o teste: npm run test
+
+
+## Melhorias Possíveis
+- Adicionar filtro por avaliação e nome do hotel
+- Tornar o layout 100% responsivo
+- Componentizar mais elementos como sections de informações do hotel entre outros
+- Criar mais casos de testes unitários garantindo maior cobertura de testes
+- Ajustar setas fixas carrosel
+  
 
 
 # Quasar App (onfly)
